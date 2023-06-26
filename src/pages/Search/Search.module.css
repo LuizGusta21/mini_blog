@@ -1,0 +1,19 @@
+.search {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.search h1 {
+  margin-bottom: 1em;
+}
+
+.search p {
+  margin: 30px;
+}
+
+.noposts {
+  text-align: center;
+
+}
